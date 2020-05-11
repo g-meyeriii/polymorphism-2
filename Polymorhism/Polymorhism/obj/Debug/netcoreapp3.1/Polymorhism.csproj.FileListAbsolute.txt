@@ -1,0 +1,13 @@
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.exe
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.deps.json
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.runtimeconfig.json
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.runtimeconfig.dev.json
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.dll
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\bin\Debug\netcoreapp3.1\Polymorhism.pdb
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.csprojAssemblyReference.cache
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.csproj.CoreCompileInputs.cache
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.AssemblyInfoInputs.cache
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.AssemblyInfo.cs
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.dll
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.pdb
+C:\Users\gjmii\source\repos\polymorphism\Polymorhism\Polymorhism\obj\Debug\netcoreapp3.1\Polymorhism.genruntimeconfig.cache
